@@ -55,7 +55,7 @@ I am a Machine Learning Engineer with a strong focus on Natural Language Process
   <li><strong>Text-to-Speech (TTS) Systems</strong>: Experimented with state-of-the-art TTS architectures for developing custom TTS solutions.</li>
   <li><strong>Speech-to-Text (STT) Systems</strong>: Leveraged cutting-edge STT models for efficient audio data processing and transcription tasks.</li>
   <li><strong>Machine Learning Automation</strong>: Developed tools for automating text and audio data processing using advanced ML models.</li>
-  <li><strong>LLM Fine-Tuning</strong>: Customized large language models (LLMs) using LoRA and Quantization for domain-specific applications.</li>
+  <li><strong>LLM Fine-Tuning</strong>: Customized large language models (LLMs) using LoRA and used Retrieval-Augmented Generation (RAG) for domain-specific applications.</li>
 </ul>
 
 <h3 align="left">Skills:</h3>
